@@ -4,6 +4,6 @@
 
 Intially developed for the HTC Vive, this is what my team came up with during the Global Game Jam 2016 in Munich. I forked the repository we originally developed on because i want to port this to the Oculus Rift. This needs a lot of modifications, especially in terms of game design since the rift doesn't have any fancy position-tracked peripherals like the vive has. 
 
-You can find the HTC Vive Version of the game (http://globalgamejam.org/2016/games/shaman-vr "here").
+You can find the HTC Vive Version of the game [here](http://globalgamejam.org/2016/games/shaman-vr).
 
-If you have any questions hit me up on twitter @adrumwatschn
+If you have any questions or you just want to chat, hit me up on twitter [@adrumwatschn](https://twitter.com/adrumwatschn).
